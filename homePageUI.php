@@ -8,6 +8,21 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hello world</h1>
+    <section id="homeTop">
+        <div class="homeTop">
+            <h1>Ashirwada Print House</h1>
+        </div>
+    </section>
+    <section id="nvbar">
+        <div class="nvbar">
+            <ul>
+                <li>HOME</li>
+                <li>REGISTRATION</li>
+                <li>PACE ODER</li>
+                <li>PAYMONT</li>
+                <li>CONTACT US</li>
+            </ul>
+        </div>
+    </section>
 </body>
 </html>
