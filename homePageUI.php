@@ -8,21 +8,29 @@
     <title>Document</title>
 </head>
 <body>
-    <section id="homeTop">
-        <div class="homeTop">
+    <section id="title">
+        <div class="title">
             <h1>Ashirwada Print House</h1>
         </div>
     </section>
     <section id="nvbar">
         <div class="nvbar">
             <ul>
-                <li>HOME</li>
-                <li>REGISTRATION</li>
-                <li>PACE ODER</li>
-                <li>PAYMONT</li>
-                <li>CONTACT US</li>
+                <button>HOME</button>
+                <a href="registrationUI.php"><button>REGISTRATION</button></a>
+                <button>PACE ODER</button>
+                <button>PAYMONT</button>
+                <button>CONTACT US</button>
             </ul>
         </div>
     </section>
+    <section id="home">
+        <div class="home">
+            <h1>this is page home section</h1>
+        </div>
+    </section>
+    <footer>
+        <h1>ths is footer</h1>
+    </footer>
 </body>
 </html>
