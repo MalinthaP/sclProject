@@ -1,13 +1,15 @@
 # **_School Project_**
 
 _This is my school project_
+
 <br>
 
 Demo:
-![](Screenshot%20(1).png)
+![](imgs/demo.png)
 
-it have a detabace in xampp __"ashirwadadb"__
+it have a detabace in xampp **"ashirwadadb"**
 <br>
-table init names
+table init names:
+
 - username
 - password

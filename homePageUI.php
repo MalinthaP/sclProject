@@ -16,8 +16,9 @@
     <section id="nvbar">
         <div class="nvbar">
             <ul>
-                <button>HOME</button>
+                <a href="#home"><button>HOME</button></a>
                 <a href="registrationUI.php"><button>REGISTRATION</button></a>
+                <button>DEALS</button>
                 <button>PACE ODER</button>
                 <button>PAYMONT</button>
                 <button>CONTACT US</button>
@@ -26,11 +27,14 @@
     </section>
     <section id="home">
         <div class="home">
-            <h1>this is page home section</h1>
+            <div class="home-init">
+                <div class="add">
+                </div>
+            </div>
         </div>
     </section>
-    <footer>
+    <!-- <footer>
         <h1>ths is footer</h1>
-    </footer>
+    </footer> -->
 </body>
 </html>
