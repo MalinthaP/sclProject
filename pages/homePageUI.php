@@ -26,12 +26,11 @@
         </div>
     </section>
     <section id="home">
-        <div class="home">
             <div class="home-init">
-                <div class="add">
+                <div class="addbox">
+                    <img src="/myDocs/sclProject/imgs/speker.png">
                 </div>
             </div>
-        </div>
     </section>
     <!-- <footer>
         <h1>ths is footer</h1>
