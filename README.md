@@ -1,4 +1,4 @@
-# **_School Project_**
+# School Project
 
 _This is my school project_
 
@@ -7,9 +7,10 @@ _This is my school project_
 Demo:
 ![](imgs/demo.png)
 
-it have a detabace in xampp **"ashirwadadb"**
+it have a detabace in xampp **ashirwadadb**
 <br>
 table init names:
-
+```
 - username
 - password
+```
