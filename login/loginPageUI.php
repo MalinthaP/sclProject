@@ -1,6 +1,6 @@
 <!-- connect with db -->
 <?php
-    include("db_conn.php");
+    include("/xampp/htdocs/myDocs/sclProject/db/db_conn.php");
 ?>
 <!-- this file is login page ui -->
 <!DOCTYPE html>
