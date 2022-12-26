@@ -17,7 +17,7 @@
         <div class="nvbar">
             <ul>
                 <a href="#home"><button>HOME</button></a>
-                <a href="registrationUI.php"><button>REGISTRATION</button></a>
+                <a href="/myDocs/sclProject/registration/registrationUI.php"><button>REGISTRATION</button></a>
                 <button>DEALS</button>
                 <button>PACE ODER</button>
                 <button>PAYMONT</button>
